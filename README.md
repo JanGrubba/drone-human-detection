@@ -26,3 +26,7 @@ Follow instructions in notebook to combine above datasets.
 | Dataset name         | Data preparation notebook                                                             |
 |----------------------|---------------------------------------------------------------------------------------|
 | RGB Combined Dataset | [rgb_combined_dataset](data_processing/notebooks/combined/rgb_combined_dataset.ipynb) |
+
+### Disclaimer
+
+This is a fork of an original repository, where I contributed as [@VQire](https://github.com/VQire)
